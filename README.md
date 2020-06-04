@@ -33,6 +33,9 @@ window.addEventListener('beforescriptexecute',
 [hackClient.js](https://qwerty837.github.io/hackClient.js)
 
 
+copy("\u200B")
+
+
 # log
 
 <img width="450" src="https://user-images.githubusercontent.com/66380341/83735092-dce64e80-a68a-11ea-8654-f2952cb6a938.PNG">
