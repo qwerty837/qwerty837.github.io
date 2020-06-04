@@ -31,3 +31,9 @@ window.addEventListener('beforescriptexecute',
 [github.io](https://qwerty837.github.io/)
 
 [hackClient.js](https://qwerty837.github.io/hackClient.js)
+
+
+# log
+
+<img width="450" src="https://user-images.githubusercontent.com/66380341/83735092-dce64e80-a68a-11ea-8654-f2952cb6a938.PNG">
+<img width="450" src="https://user-images.githubusercontent.com/66380341/83735098-de177b80-a68a-11ea-8912-485d16f36b3d.PNG">
