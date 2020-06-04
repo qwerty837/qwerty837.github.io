@@ -33,7 +33,7 @@ window.addEventListener('beforescriptexecute',
 [hackClient.js](https://qwerty837.github.io/hackClient.js)
 
 ```c
-copy("\u200B")
+copy("\u2800")
 ```
 
 # log
