@@ -40,3 +40,6 @@ copy("\u2800")
 
 <img width="450" src="https://user-images.githubusercontent.com/66380341/83735092-dce64e80-a68a-11ea-8654-f2952cb6a938.PNG">
 <img width="450" src="https://user-images.githubusercontent.com/66380341/83735098-de177b80-a68a-11ea-8912-485d16f36b3d.PNG">
+200b doesn't work.
+
+
