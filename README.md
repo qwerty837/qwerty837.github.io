@@ -27,5 +27,7 @@ window.addEventListener('beforescriptexecute',
 );
 ```
 
+
 [github.io](https://qwerty837.github.io/)
+
 [hackClient.js](https://qwerty837.github.io/hackClient.js)
