@@ -44,3 +44,7 @@ copy("\u2800")
   
 <img width="450" src="https://user-images.githubusercontent.com/66380341/83899173-eeb31900-a792-11ea-9222-283c821ddebc.PNG">
 
+sendGay:{regex:/^\u2800{4}g → sendGay:{regex:/^\u2800{1}t "Im testing"
+
+sendJude:{regex:/^\u2800{4}j → sendJude:{regex:/^\u2800{1}j "This code was made by Jude"
+
