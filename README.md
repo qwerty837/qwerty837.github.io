@@ -38,12 +38,9 @@ copy("\u2800")
 
 # log
 
-<div>
 <img width="350" src="https://user-images.githubusercontent.com/66380341/83735092-dce64e80-a68a-11ea-8654-f2952cb6a938.PNG">
-<img width="450" src="https://user-images.githubusercontent.com/66380341/83735098-de177b80-a68a-11ea-8912-485d16f36b3d.PNG">
-</div>
 
   200b doesn't work.
   
-<img width="450" src="https://user-images.githubusercontent.com/66380341/83738014-b62a1700-a68e-11ea-815b-23b40394a82d.PNG">
+<img width="450" src="https://user-images.githubusercontent.com/66380341/83899173-eeb31900-a792-11ea-9222-283c821ddebc.PNG">
 
