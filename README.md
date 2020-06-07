@@ -29,7 +29,6 @@ window.addEventListener('beforescriptexecute',
 
 
 [github.io](https://qwerty837.github.io/)
-
 [hackClient.js](https://qwerty837.github.io/hackClient.js)
 
 ```c
@@ -39,12 +38,9 @@ copy("\u2800")
 # log
 
 <img width="350" src="https://user-images.githubusercontent.com/66380341/83735092-dce64e80-a68a-11ea-8654-f2952cb6a938.PNG">
-
-  200b doesn't work.
-  
+<p>200b doesn't work</p>
 <img width="450" src="https://user-images.githubusercontent.com/66380341/83899173-eeb31900-a792-11ea-9222-283c821ddebc.PNG">
 
-sendGay:{regex:/^\u2800{4}g → sendGay:{regex:/^\u2800{1}t "Im testing"
-
+<p>sendGay:{regex:/^\u2800{4}g → sendTest:{regex:/^\u2800{1}t "Im testing"</p>
 sendJude:{regex:/^\u2800{4}j → sendJude:{regex:/^\u2800{1}j "This code was made by Jude"
 
