@@ -41,6 +41,5 @@ copy("\u2800")
 <p>200b doesn't work</p>
 <img width="450" src="https://user-images.githubusercontent.com/66380341/83899173-eeb31900-a792-11ea-9222-283c821ddebc.PNG">
 
-<p>sendGay:{regex:/^\u2800{4}g → sendTest:{regex:/^\u2800{1}t "Im testing"</p>
-sendJude:{regex:/^\u2800{4}j → sendJude:{regex:/^\u2800{1}j "This code was made by Jude"
+<p>sendGay:{regex:/^\u2800{4}g → sendTest:{regex:/^\u2800{1}t "Im testing"</p><p style="margin-top:10px;">sendJude:{regex:/^\u2800{4}j → sendJude:{regex:/^\u2800{1}j "This code was made by Jude"</p>
 
